@@ -13,6 +13,8 @@ namespace Assignment1
         static void Main(string[] args)
 
         {
+            Console.WriteLine("Hello World"  );
+            Console.ReadLine();
             String location = "";
             DateTime time = DateTime.Now;
 
